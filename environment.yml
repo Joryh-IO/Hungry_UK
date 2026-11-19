@@ -1,0 +1,11 @@
+name: genesis
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - statsmodels
+  - jupyter
+  - matplotlib
+  - seaborn
+  - kagglehub
+prefix: C:\Users\91970\anaconda3\envs\genesis
